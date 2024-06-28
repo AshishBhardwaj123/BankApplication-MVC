@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Banking Management MVC Application 
 A Banking Management Spring MVC Application with JSP and Bootstrap.
 
@@ -13,7 +13,6 @@ A Banking Management Spring MVC Application with JSP and Bootstrap.
 * Gradle 7.5.1
 * Gradle Gretty plugin 3.0.9 for embedded servlet containers (Tomcat 9 and Jetty 9.4)
 * Spring Test 5.2.22.RELEASE
-* 
 * JUnit 5.9
 
 ## Features: 
