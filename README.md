@@ -20,6 +20,5 @@ A Banking Management Spring MVC Application with JSP and Bootstrap.
 - Search them by name. 
 - Professional UI for managing different entities and thier CRUD operations.
 
-=======
-# BankApplication-MVC
->>>>>>> 0d6b3f14b4a92c19e76d907b793feb584f031eb4
+
+
